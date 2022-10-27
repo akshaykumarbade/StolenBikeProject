@@ -42,3 +42,7 @@ YOUR MISSION Create the React application that satisfies all must-have requireme
 For that, you’ll need to make requests to a publicly-available API to get JSON content and print it on view.
 
 The API is known to have some limitations. If you are not able to implement a particular requirement, please provide a description of what and why you could not implements.
+
+
+##further Scope:
+I was not able to apply date range search filter in this project.  
