@@ -1,0 +1,29 @@
+.pagination {
+    text-align: center;
+    margin-left: 100px;
+    position: relative;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+
+.page-link {
+    position: relative;
+    float: left;
+    padding: 0.5rem 0.75rem;
+    margin-left: -1px;
+    color: #121110;
+    text-decoration: none;
+    background-color: rgb(247, 213, 213);
+    border: 1px solid rgb(252, 175, 175);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+
+.page-link:focus,
+.page-link:hover {
+    color: #091009;
+    background-color: #06a013;
+    border-color: #ddd;
+}
